@@ -11,4 +11,4 @@ I’m a first-year graduate student from the School of Information Science and T
 
 I am very fortunate to be advised by Prof. Rongrong Ji at the MAC Lab from the School of Information Science and Technology, Xiamen University. I am also co-advised by Asst. Prof. Zhanpeng Zeng.
 
-[Email](31520241154536@stu.xmu.edu.cn) / [Github](https://github.com/yudaohai666) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](31520241154536@stu.xmu.edu.cn) / [Github](https://github.com/yudaohai666) / [Wechat](../images/wechat.jpg) 
